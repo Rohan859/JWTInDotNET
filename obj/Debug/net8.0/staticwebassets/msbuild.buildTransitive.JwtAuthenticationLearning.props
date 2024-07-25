@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JwtAuthenticationLearning.props" />
+</Project>
